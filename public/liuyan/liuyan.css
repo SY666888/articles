@@ -1,0 +1,34 @@
+﻿/*我要留言*/
+.gbook {/* margin-top: 20px; */overflow: hidden;zoom: 1;margin-bottom:20px;background:#fff;}
+.gbook .hd{height: 43px;line-height: 43px;font-size:20px;font-weight:bold;color:#D71318;/* padding-left:20px; */position:relative;/* padding-right: 19px; */border-bottom:2px solid #E0E0E0;}
+.gbook .hd .gb_tips{font-weight:100;position:absolute;left: 94px;top:1px;font-size: 14px;color: #666;}
+
+.gbook .bd{position: relative;  overflow: hidden;}
+
+.gbook .bd  .select_money{width: 310px;height: 36px;color: #999;}
+.gbook .bd .bd_mag{padding: 20px 0;overflow:hidden;zoom: 1;/* width: 378px; */float: left;}
+.gbook .bd li{overflow:hidden;zoom:1;padding-bottom: 13px;}
+.gbook .bd li .input_bk{width: 298px;height: 34px;border:1px solid #CCCCCC;float:left;line-height: 34px;padding:0 5px;font-size:12px;}
+.gbook .bd li .dzhi{ width:288px;}
+.gbook .bd .sex{float:left; padding:5px 0 0 10px;}
+.gbook .bd .sex .ly_radio{ vertical-align:middle;}
+.gbook .bd .sex em{ padding-right:15px;}
+.gbook .bd li .textarea_bk{border:1px solid #CCCCCC;padding:5px;width: 298px;height: 128px;font-size:14px;}
+.gbook .bd .btn{width: 310px;height: 42px;background: #D71318;border:none;cursor:pointer;line-height: 42px;color:#fff;border-radius:3px;font-size: 14px;}
+.gbook .bd .btn:hover{background:#f60;}
+.gbook .bd .txt{width: 49px;float:left;/* text-align:right; */padding: 7px 9px 0 0;font-size: 14px;}
+.gbook .bd .txt i{color: #D71318;vertical-align:middle;padding-right: 7px;}
+
+.gbook .check_msg{width: 362px;position:absolute;top: 170px;right: 79px;}
+.gbook .check_msg .check_msg_tit{background: #FF7A4D;padding-left:15px;height:35px;line-height:35px;color:#fff;position:relative;font-size:14px;}
+.gbook .check_msg .check_msg_tit i{font-size:22px;color: #FF7A4D;position:absolute;left:-6px;top:0;}
+.gbook .check_msg .check_msg_bd{border: 1px solid #e6e6e6;border-top:none;padding: 7px 0;/* font-size: 12px; */}
+.gbook .check_msg .check_msg_bd li{height: 28px;line-height: 28px;padding-bottom:0;/* border-bottom: 1px #e6e6e6 dashed; */font-size: 1;}
+.gbook .check_msg .check_msg_bd li a{ display:block; padding-left:10px;}
+.gbook .check_msg .check_msg_bd li a:hover{ background:#E5E5E5;}
+.gbook .check_msg .check_msg_bd li:last-child {border-bottom: none;}
+
+.gbook .class_phone{ position:absolute; top: 66px;right:58px; width: 177px;}
+.gbook .class_phone .phone{ font-size:24px; color:#E63726; font-weight:bold;}
+.gbook .class_phone  .ts{font-size:14px;text-align:center;margin-top: 5px;color: #666;}
+/*我要留言*/
